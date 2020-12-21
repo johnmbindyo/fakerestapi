@@ -3,7 +3,7 @@
 	"msisdn":"string",
 	"amount":"int",
 	"currencycode":"string",
-	"timestamp":"date",
+	"timestamp":"string",
 	"accountno":"string",
 	"username":"string",
 	"password":"string",
