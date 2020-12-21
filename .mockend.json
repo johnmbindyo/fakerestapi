@@ -1,4 +1,5 @@
- "Airtime":{
+{
+	"Airtime":{
 	"msisdn":"string",
 	"amount":int,
 	"currencycode":"string",
@@ -10,4 +11,5 @@
 	"serviceid":"string",
 	"narration":"string",
 	"transactionid":"string"
+              }
 }
