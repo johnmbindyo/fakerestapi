@@ -1,7 +1,7 @@
 {
 	"Airtime":{
 	"msisdn":"string",
-	"amount":int,
+	"amount":"int",
 	"currencycode":"string",
 	"timestamp":"date",
 	"accountno":"string",
